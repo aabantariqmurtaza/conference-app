@@ -11,6 +11,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class HomeController {
 	
+//	jdbc:postgresql://localhost:5432/conference_app
+//	postgres
+	
 	@Value("${app.version}")
 	private String appVersion;
 	
