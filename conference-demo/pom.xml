@@ -14,10 +14,6 @@
 	<name>conference-demo</name>
 	<description>First Spring Boot Application with Spring Web</description>
 
-	<properties>
-		<java.version>12</java.version>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
